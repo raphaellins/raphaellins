@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**raphaellins/raphaellins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on awesome projects using Java 8+, Angular, Amazon AWS
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: raphalinns@gmail.com | (11) 96390-4393
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am DJ, and i go to the Gyn 
--->
