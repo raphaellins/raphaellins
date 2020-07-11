@@ -5,6 +5,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate in anything related with Javascript Code :)
 - 🤔 I’m looking for help with increase my Deep learning track
 - 💬 Ask me about anything
-- 📫 How to reach me: raphalinns@gmail.com | (11) 96390-4393
+- 📫 How to reach me: raphalinns@gmail.com | (11) 96390-4393 | www.linkedin.com/in/raphalins
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am DJ
