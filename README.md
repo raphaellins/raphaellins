@@ -1,9 +1,3 @@
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on awesome projects using Java 8+, Angular, Amazon AWS, Flutter, ReactJs, NodeJs
-- 🌱 I’m currently learning Deep Learning, Flutter
-- 👯 I’m looking to collaborate in anything related with Javascript Code :)
-- 🤔 I’m looking for help with increase my Deep learning skills
-- 💬 Ask me about anything
+- 🔭 I’m currently working on enterprise applications using Java, Angular, Amazon AWS, NodeJs,Python, contributing with a team with high devops mature
+- 🌱 I’m currently learning Data Science, Flutter, React
 - 📫 How to reach me: raphalinns@gmail.com | (11) 96390-4393 | www.linkedin.com/in/raphalins
-- ⚡ Fun fact: I am DJ
