@@ -1,3 +1,3 @@
-- 🔭 I’m currently working on enterprise applications using Java, Angular, Amazon AWS, NodeJs,Python, contributing with a team with high devops mature
+- 🔭 I’m currently working on enterprise applications using Java, Angular, Amazon AWS contributing with a team with high devops mature
 - 🌱 I’m currently learning Data Science, Flutter, React
 - 📫 How to reach me: raphalinns@gmail.com | (11) 96390-4393 | www.linkedin.com/in/raphalins
