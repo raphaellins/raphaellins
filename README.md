@@ -1,3 +1,1 @@
-- 🔭 I’m currently working on enterprise applications using Java, Angular and DevOps (AWS, k8s) 
-- 🌱 I’m currently learning Data Science and making personal projects (stay tuned!)
-- 📫 How to reach me: raphalinns@gmail.com | www.linkedin.com/in/raphalins
+- 🌱 Currently building projects with C++, Machine Learning, and more. Stay tuned!
